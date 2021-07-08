@@ -1,4 +1,7 @@
-public static void main(String []str){
-System.out.println("Hello Git"); 
+class A{
+  public static void main(String []str){
 
+  System.out.println("Hello Git"); 
+  
+  }
 }
